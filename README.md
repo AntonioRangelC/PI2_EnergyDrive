@@ -33,7 +33,8 @@ https://template-relatorio-bd2bf7.gitlab.io/
 
 ## Nosso Produto
 
-![alt text](Docs/docs/assets/identidade/banner-pi2.png)
+![banner-pi2](https://github.com/user-attachments/assets/ecc63028-213b-4920-8644-14fc5ea10144)
+
 
 A competição Fórmula SAE Brasil promove um ambiente desafiador para a formação de engenheiros, com categorias para carros a combustão e elétricos. Uma boa classificação exige a aprovação em rigorosas inspeções técnicas, que analisam tanto aspectos mecânicos quanto elétricos dos veículos. As equipes precisam atender a todos os requisitos de segurança estabelecidos nas regras da competição para garantir essa aprovação.
 
