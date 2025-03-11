@@ -33,6 +33,8 @@ https://template-relatorio-bd2bf7.gitlab.io/
 
 ## Nosso Produto
 
+![alt text](Docs/docs/assets/identidade/banner-pi2.png)
+
 A competição Fórmula SAE Brasil promove um ambiente desafiador para a formação de engenheiros, com categorias para carros a combustão e elétricos. Uma boa classificação exige a aprovação em rigorosas inspeções técnicas, que analisam tanto aspectos mecânicos quanto elétricos dos veículos. As equipes precisam atender a todos os requisitos de segurança estabelecidos nas regras da competição para garantir essa aprovação.
 
 Nesse cenário, surge a necessidade do projeto de um Accumulator Hand Cart para a equipe de fórmula elétrica da UnB. Este carrinho de mão sera desenvolvido para realizar o transporte e o carregamento do acumulador de baterias com segurança. Equipado com telemetria avançada, o sistema fornece dados sobre o estado das baterias, permitindo o acompanhamento preciso de parâmetros como corrente, tensão e temperatura, essenciais para um carregamento seguro e dentro das normas. Além disso, o projeto garante a segurança mecânica do acumulador e inclui isolação galvânica, protegendo o usuário durante o manuseio.
