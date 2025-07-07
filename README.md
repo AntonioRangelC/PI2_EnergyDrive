@@ -42,3 +42,5 @@ Nesse cenário, surge a necessidade do projeto de um Accumulator Hand Cart para 
 
 Essa abordagem inovadora visa não apenas atender aos requisitos da competição, mas também oferecer uma solução segura e tecnológica para o gerenciamento das baterias em projetos de engenharia elétrica, integrando eficiência, segurança e tecnologia avançada no transporte e recarga de acumuladores.
 
+.
+
