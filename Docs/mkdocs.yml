@@ -1,0 +1,84 @@
+site_name: EnergyDrive
+repo_url: "https://gitlab.com/unb-esw/fga-pi2/semestre-2024-3/squad10/Docs"
+site_url: "https://unb-esw/fga-pi2/energydrive/"
+site_dir: public
+theme:
+  name: material
+  favicon: assets/identidade/logo_carro.png
+  logo: assets/identidade/logo_carro_invertida.png
+  features:
+    - content.code.annotate
+    - content.tabs.link
+    - header.autohide
+    - navigation.instant
+    - navigation.sections
+    - navigation.tabs
+    - navigation.top
+    - navigation.tracking
+
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/lightbulb-outline
+        name: Modo Claro
+
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: indigo
+      accent: indigo
+      toggle:
+        icon: material/moon-waxing-crescent
+        name: Modo Escuro
+
+extra_css:
+  - stylesheets/styles.css
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/zoom.js/1.7.21/zoom.min.js
+nav:
+  - Sobre: index.md
+  - Geral:
+      - Visão Geral: geral/visaogeral.md
+      - Guia de Commit: geral/guia_commit.md
+      - Arquitetura: geral/arquitetura.md
+      - Cronograma: geral/cronograma.md
+      - EAP: geral/eap_geral.md
+      - Estimativa de Custos: geral/estimativa-custos.md
+      - Normas: geral/normas.md
+      - Requisitos Gerais: geral/requisitos.md
+      - Termo de Abertura: geral/termo_de_abertura_de_projeto.md
+      - Público Alvo: geral/publico-alvo.md
+      - Integração: geral/integracao.md
+      - Avaliação de desempenho do grupo: geral/avaliacao-de-desempenho.md
+      - Reuniões:
+          - reunião 29/10/2024: encontros/29-10-2024.md
+          - reunião 30/10/2024: encontros/30-10-2024.md
+          - reunião 01-11-2024: encontros/01-11-2024.md
+          - reunião 02-11-2024: encontros/02-11-2024.md
+          - reunião 05-11-2024: encontros/05-11-2024.md
+          - reunião 06-11-2024: encontros/06-11-2024.md
+          - reunião 13-11-2024: encontros/13-11-2024.md
+  - Software:
+      - Arquitetura de software: software/arquitetura.md
+      - Backlog do produto: software/backlog_produto.md
+      - Documento de identidade: software/identidade.md
+      - Fluxos de usuário: software/fluxos.md
+      - Projeto de subsistema de software: software/subsistema-software.md
+      - Prototipo baixa e alta Fidelidade: software/prototipo.md
+  - Eletrônica/Energia:
+      - Arquitetura de eletrônica e Energia: eletronica-energia/arquitetura_eletronica.md
+      - EAP: eletronica-energia/EAP_Eletronica_Energia.md
+      - Subsistema de eletrônica: eletronica-energia/Projeto_subsistema_eletronica.md
+      - Subsistema de energia: eletronica-energia/Projeto_Subsistema_Energia.md
+      - Cronograma: eletronica-energia/Cronograma_Eletronica_Energia.md
+      - Requisitos: eletronica-energia/requisitos-eletronica-energia.md
+      - Montagem do Painel de Segurança: eletronica-energia/Montagem_do_painel_de_segurança.md
+  - Estruturas:
+      - EAP: estruturas/EAP_estruturas.md
+      - Requisitos: estruturas/Requisitos_estruturas.md
+      - Arquitetura Geral: estruturas/arquitetura.md
+      - Subsistema: estruturas/Projeto_subsistema_estruturas.md
+      - Desenhos mecânicos: estruturas/DTs.md
+      - Manual de montagem: estruturas/Manual_montagem_estruturas.md

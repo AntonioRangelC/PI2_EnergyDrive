@@ -1,0 +1,8 @@
+Procedimentos para criaar o drafiting
+
+1.	Copiar o modelo de cabeçalho do drafitind "Caixa_estrutura_tampa" no SheetBackground;
+1.1.	Lembrar de sempre colocar o nome de quem fez cada coisa;
+
+2. 	Salvar com o nome composto pelo subsistema, depois nome da peça separadas com hifem. ex: estrutura_aluminio_estrudado;
+
+3. 	Salvar uma cópia em .CATDrawing e outra em .PDF.
