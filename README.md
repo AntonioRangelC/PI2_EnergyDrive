@@ -27,8 +27,8 @@
 
 ## Site
 
-https://template-relatorio-bd2bf7.gitlab.io/
-
+Documentação: https://template-relatorio-bd2bf7.gitlab.io/
+Aplicação Web Responsiva: https://energy-drive.vercel.app/
 
 
 ## Nosso Produto
